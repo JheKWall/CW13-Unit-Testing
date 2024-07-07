@@ -1,4 +1,6 @@
-# CW13-Unit-Testing
+# Unit Testing
+
+A unit testing example using a basic bank account system made with C#.
 
 Currently features seven testing methods:
 1. Debit_WithValidAmount_UpdatesBalance()
